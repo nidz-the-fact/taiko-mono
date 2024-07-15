@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.11.5](https://github.com/taikoxyz/taiko-mono/compare/docs-site-v1.11.4...docs-site-v1.11.5) (2024-07-15)
+
+
+### Documentation
+
+* **docs-site:** update developer tools page ([#17738](https://github.com/taikoxyz/taiko-mono/issues/17738)) ([21ad192](https://github.com/taikoxyz/taiko-mono/commit/21ad192df174b78820c83910d559652c7ceefec0))
+
 ## [1.11.4](https://github.com/taikoxyz/taiko-mono/compare/docs-site-v1.11.3...docs-site-v1.11.4) (2024-07-10)
 
 
